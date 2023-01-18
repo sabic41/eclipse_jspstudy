@@ -14,6 +14,6 @@
    out.println("<h1>"+"str=>"+str+"</h1>");//웹에출력
  %>
  <hr>
- str의 값출력=<%=str %>
+<%=str %>
 </body>
 </html>
