@@ -14,6 +14,10 @@
    out.println("<h1>"+"str=>"+str+"</h1>");//웹에출력
  %>
  <hr>
+<<<<<<< HEAD
 str의 값 출력<%=str %>
+=======
+<%=str%>
+>>>>>>> refs/heads/hotfix
 </body>
 </html>
